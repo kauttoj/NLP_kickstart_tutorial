@@ -3,14 +3,14 @@ Selected examples of NLP
 
 In this mini-tutorial, I'll do some NLP using following Python packages:
 
--NLTK
--SpaCy
--Polyglot
--Voikko
--Turku NLP neural parser
--Gensim
--Flair
--Scikit-learn
+-NLTK  
+-SpaCy  
+-Polyglot  
+-Voikko  
+-Turku NLP neural parser  
+-Gensim  
+-Flair  
+-Scikit-learn  
 
 (+ Numpy, Pandas and Pyplot)
 
