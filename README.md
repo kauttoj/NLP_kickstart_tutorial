@@ -14,11 +14,11 @@ In this mini-tutorial, I'll do some NLP using following Python packages:
 
 (+ Numpy, Pandas and Pyplot)
 
-There are three Notebooks: 
- PART 1 with preprocessing and classical topic classification using TF-IDF scaling
- PART 2 with simple word and document embeddings and LDA topic modeling 
- PART 3 with state-of-the art contextualized word and document embeddings and classification
+There are three Notebooks:  
+ PART 1 with preprocessing and classical topic classification using TF-IDF scaling  
+ PART 2 with simple word and document embeddings and LDA topic modeling  
+ PART 3 with state-of-the art contextualized word and document embeddings and classification  
 
-The main emphasis is in Finnish language data. I'll use a toy dataset with 416 wikipedia texts from two broad topics (economy/money and health), which are included.
+The main emphasis is in Finnish language data, which is not supported only by few libraries and tools. I'll use a toy dataset with 416 wikipedia texts from two broad topics (economy/money and health), which are included.
 
 24.10.2019 Janne Kauttonen
