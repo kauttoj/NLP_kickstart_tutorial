@@ -23,7 +23,7 @@ The main emphasis is in Finnish language data, which is not supported only by fe
 
 Codes are tested and should work with Python 3.6+ with latest versions of packages (as today). In order to train Flair models, you need PyTorch with relatively good CUDA cabable GPU.
 
-Some useful links:
+Some useful links:  
 https://github.com/TurkuNLP/Deep_Learning_in_LangTech_course  
 https://github.com/TurkuNLP/Text_Mining_Course  
 https://www.kielipankki.fi/tools/  
