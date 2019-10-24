@@ -1,0 +1,4 @@
+Letaaliannos
+Letaaliannos (LD, engl. "lethal dose") on eräs lääketieteellinen ilmaus, joka tarkoittaa sanatarkasti "kuolettavaa annosta". Se on määrä jotain tiettyä lääkeainetta tai myrkkyä, jonka saaminen tavanomaisesti johtaa ihmisen kuolemaan. LD-arvoa laskettaessa ei oteta huomioon mahdollisia ristikkäisiä yhteisvaikutuksia, kuten esimerkiksi usean saman aikaisesti saadun lääkkeen tai myrkyn kumuloituvaa vaikutusta.
+Jonkin tietyn yksilöidyn lääkkeen tai myrkyn kuolettavuutta on tutkittu yleisimmin eläinkokein. Natsi-Saksassa tällaisia myrkyllisyystestejä suoritettiin ihmisillä. Nykyään kehittynyt solubiologia mahdollistaa vastaavat kokeet soluviljelmien avulla.
+ 

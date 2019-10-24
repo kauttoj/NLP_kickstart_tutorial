@@ -1,0 +1,4 @@
+Virka-aika
+Virka-aika on se aika, jolloin liiketoiminta ja valtion virastot ovat auki. 
+Esimerkiksi englanniksi käytetään termiä "business hours", joka tarkoittaa nimenomaan liike-elämän työtunteja maanantaista perjantaihin. Nämä tunnitkin vaihtelevat eri maissa, ja monissa maissa virka-aika katkeaa päivän siestojen ja rukoushetkien rytmissä. Jossain määrin tauot ovat syntyneet myös paikallisten kuumuusolojen ja työmaaruokailun puuttumisen vuoksi.
+Suomessa virka-ajalla tarkoitetaan yleensä viranomaisen toimipaikan aukioloaikaa. Suomessa monet ovat tyypillisesti avoinna maanantaista perjantaihin kello 8.00Ã¢â‚¬â€16.15 lukuun ottamatta pyhäpäiviä ja muita yleisiä vapaapäiviä. Vielä 1960-luvulla Suomen virastoissa lauantaikin oli työpäivä, tosin lyhennetty.

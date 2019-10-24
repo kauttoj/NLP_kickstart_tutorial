@@ -1,0 +1,9 @@
+Markkinahäiriö
+Markkinahäiriö () on taloustieteessä tilanne, jossa markkinat eivät allokoi tai tuota tehokkaasti hyödykkeitä. Se määritellään ei-Pareto-optimaalisena tasapainona, jossa jonkun toimijan asemaa voisi parantaa muiden kärsimättä. Yleisemmin markkinahäiriö tarkoittaa tilannetta, jossa yksilöiden oman edun tavoittelu johtaa yhteiskunnan kannalta tehottomaan lopputulokseen. Monet julkisen vallan toimet tähtäävät markkinahäiriöihin puuttumiseen.
+Käsitteen markkinahäiriöstä on ensimmäistä kertaa esittänyt viktoriaanisen ajan filosofi Henry Sidgwick.
+Taloustieteilijät käyttävät erilaisia malleja tällaisten tilanteiden kuvaamiseen. Kaksi markkinahäiriöiden pääsyytä ovat:
+Näitä ongelmia voidaan yrittää ratkoa muun muassa sääntelyllä tai muuten valtion puuttumisella. Toisinaan on mahdollista perustaa markkinat sinne mistä ne puuttuvat.
+Taloustieteen valtavirran tutkimuksesta huomattava osa liittyy markkinahäiriöiden tutkimukseen. Kaikki taloustieteilijät eivät kuitenkaan ole hyväksy markkinahäiriötä käsitteenä. Niin sanottua laissez-faire -näkemystä kannattavat, lähinnä itävaltalaisen taloustieteen edustajat sekä libertaarit, eivät halua lisätä valtion roolia tai valtion sääntelevän markkinoiden toimintaa. Marxilaiset puolestaan tyypillisesti uskovat, että yksilöllinen tuotantovälineiden omistus on ongelma itsessään ja että talouden resurssit pitäisi jakaa muutoin kuin markkinamekanismin kautta. Heidän näkemyksensä siis poikkeaa markkinahäiriön käsitteestä, koska he pitävät kaikkea markkinoiden toimintaa huonona.
+Epäoptimaalinen markkinarakenne on muun muassa seuraavissa tapauksissa:
+Luonnollisen monopolin tapauksessa yrityksellä on pitkällä aikavälillä laskevat keskimääräiset kustannukset. Tällöin monopoli ei ole välttämättä epäoptimaalinen.
+Ongelma liittyy haittojen tai hyötyjen sisäistämiseen esimerkiksi seuraavissa tapauksissa:

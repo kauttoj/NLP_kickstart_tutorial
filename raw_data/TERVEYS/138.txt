@@ -1,0 +1,3 @@
+Enterotabletti
+Enterotabletti on lääketabletti, joka liukenee vasta ohutsuolessa. Tällaista tablettia tarvitaan esimerkiksi silloin, kun lääkeaine on mahaa ärsyttävää tai hajoaa mahassa.
+Ominaisuus voidaan toteuttaa useammalla eri tavalla. Koko tabletti voi olla päällystetty suolen emäksisessä ympäristössä hajoavalla, mutta mahahapon kestävällä päällysteellä tai lääkeaine voi olla tablettimassassa vastaavalla päällysteellä suojatuissa rakeissa.

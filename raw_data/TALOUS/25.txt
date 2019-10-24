@@ -1,0 +1,3 @@
+Kaskadihäiriö
+Kaskadihäiriö () on skaalautumattoman verkon virhetilanne, jossa solmun toiminnan häiriö vaikuttaa sen viereisten solmujen toimintaan. Esimerkiksi Internetin reitittimen joutuminen epäkuntoon johtaa sen liikenteen siirtymisen viereisten reitittimien välitettäväksi, jolloin nämä voivat joutua palvelunestohyökkäystä vastaavaan tilanteeseen. Lisääntynyt kuormitus voi siirtyä näihin reitittimiin liitettyihin toisiin reitittimiin ja näistä yhä edelleen.
+Kaskadihäiriö voi esiintyä esimerkiksi yhteiskunnallisessa, taloudellisessa, sosiaalisessa, organisaation, biologisessa tai teknisessä verkoissa.

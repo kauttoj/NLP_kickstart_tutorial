@@ -1,0 +1,3 @@
+Kvasi-optioarvo
+Kvasi-optio arvo () on kustannus-hyötyanalyysin käsite, jolla tarkoitetaan odottamisesta saadun informaation arvoa.
+Joskus saattaa olla kannattavaa lykätä jonkin projektin toteuttamista, jos on mahdollista, että lähitulevaisuudessa saadaan lisää hyödyllistä informaatiota. Tämä on erityisesti merkittävää, mikäli projektiin liittyy palauttamattomuutta. Esimerkiksi projekti voi tuhota pysyvästi ainutlaatuisen luonnonympäristön, tai projektiin voidaan joutua sitoutumaan niin pitkäksi aikaa, että vaihtoiset projektit saattavat ehtiä kehittyä paremmiksi vaihtoehdoiksi. Kvasi-optio arvolla tarkoitetaan odottamisesta saadun informaation arvoa.

@@ -1,0 +1,3 @@
+Kuuleva
+Kuuleva on henkilö, jonka molemmissa korvissa on normaali kuulo tai jonka kuulonalenema on niin lievä, ettei se haittaa hänen jokapäiväistä elämäänsä.
+Kuuloa mitataan logaritmisella desibeliasteikolla. Normaalikuuloksi lasketaan kuulo, jossa kuulokynnys on yli -20 desibeliä. Arvo 0 desibeliä on terveen nuoren ihannekuulo, mitattu keskiarvo siitä normaalikorvan herkkyydestä, jolla yleensä ääniä kuullaan. 

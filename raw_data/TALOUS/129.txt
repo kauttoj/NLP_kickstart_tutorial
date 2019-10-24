@@ -1,0 +1,4 @@
+Säästö
+Säästö määritellään taloustieteessä kuluttajan käytettävissä olevien tulojen ja kulutuksen erotukseksi. Se osa tuloista säästetään, jota ei välittömästi käytetä tavaroiden tai palvelujen ostamiseen. Myös yritysten tilinpidossa ja hallitusten budjeteissa voi tietty osuus olla säästöä.
+Säästämisellä tarkoitetaan yleisesti yksityistalouksissa rahan laittamista ""sivuun"" eli talteen myöhempää käyttöä varten. Yleisiä säästämismuotoja ovat muun muassa talletustilit, obligaatiot, rahastot ja osakkeet.
+Klassisen taloustieteen mukaan korko määräytyy siten, että kansantalouden säästäminen ja investoinnit ovat tasapainossa. Näin ollen säästämisen kasvu aiheuttaisi korkojen laskun, joka lisäisi investointeja. Keynesin mukaan kumpikaan, säästäminen tai investoinnit, ei paljoakaan reagoi korkojen muutoksiin. Näin ollen säästäminen voisi ylittää investoinnit pitkänkin aikaa, mikä taas voi aiheuttaa laskusuhdanteen.

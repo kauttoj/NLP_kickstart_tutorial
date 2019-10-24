@@ -1,0 +1,4 @@
+Lisenssivalmistus
+Lisenssivalmistus (myös lisenssituotanto) valmistustapa, jossa alkuperäisestä kehittäjästä tai tuotteen patenttien haltijasta riippumaton taho valmistaa tuotetta, ja maksaa korvauksen alkuperäiselle kehittäjälle tai tuotteen patenttien haltijalle.
+Tuotteen kehittäjälle tai sen patentin haltijalle maksettava lisenssivalmistuskorvaus voivat olla tuotantomääriin perustuva rojalti tai sovittu kertasumma. Lisenssivalmistussopimuksia voidaan jaotella niiden osapuolille antamien oikeuksien perusteella:
+Lisenssivalmistussopimukset voivat olla määräaikaisia.

@@ -1,0 +1,13 @@
+ICD-10-pääluokka Q
+WHO:n kansainvälisen tautiluokituksen ICD pääluokka Q: Synnynnäiset epämuodostumat, epämuotoisuudet ja kromosomipoikkeavuudet sisältää alla listatut alaluokat. Luokka ei sisällä synnynnäisiä aineenvaihdunnan virheitä (luokat E70Ã¢â‚¬â€œE90).
+(Q00Ã¢â‚¬â€œQ07) Synnynnäiset epämuodostumat hermostossa<br>
+(Q10Ã¢â‚¬â€œQ18) Synnynnäiset epämuodostumat silmissä, korvissa, kasvoissa ja niskassa<br>
+(Q20Ã¢â‚¬â€œQ28) Synnynnäiset epämuodostumat verenkiertojärjestelmässä<br>
+(Q30Ã¢â‚¬â€œQ34) Synnynnäiset epämuodostumat hengityselimistössä<br>
+(Q35Ã¢â‚¬â€œQ37) Huuli- ja suulakihalkio<br>
+(Q38Ã¢â‚¬â€œQ45) Muut synnynnäiset epämuodostumat ruoansulatuselimistössä<br>
+(Q50Ã¢â‚¬â€œQ56) Synnynnäiset epämuodostumat sukupuolielimissä<br>
+(Q60Ã¢â‚¬â€œQ64) Synnynnäiset epämuodostumat virtsaelimissä<br>
+(Q65Ã¢â‚¬â€œQ79) Synnynnäiset epämuodostumat ja epämuotoisuudet lihaksistossa ja luustossa<br>
+(Q80Ã¢â‚¬â€œQ89) Muut synnynnäiset epämuodostumat<br>
+(Q90Ã¢â‚¬â€œQ99) Kromosomaaliset poikkeavuudet, joita ei ole luokiteltu muualle<br>

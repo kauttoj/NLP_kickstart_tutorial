@@ -1,0 +1,8 @@
+Arvonmääritys
+Arvonmääritys on yrityskauppaan olennaisena liittyvä käsite. Sillä tarkoitetaan yrityksen kauppahinnan määrittelyä ja arviointia. Määrittely voi tapahtua eri näkökulmista, esimerkiksi myyjän, ostajan, verotuksen tai rahoittajan. Perinteiset arvonmääritystermit ovat substanssi- ja tuottoarvo. Substanssiarvolla tarkoitetaan yrityksen taseessa näkyvien varojen ja velkojen välistä erotusta. Tuottoarvon määrittämisen perustana ovat yritykseen kohdistuvat tuotto-odotukset. Lähteenä käytetään tällöin yrityksen tilinpäätösaineistoa. Huolellisesti valmisteltujen yrityskauppojen perusteiksi pelkästään tämankaltaiset arviot ovat yleensä riittämättömiä. 
+Arvonmääritys voi olla esimerkiksi suhteellista tai absoluuttista, subjektiivista tai objektiivista. Suhteellisessa arvioinnissa arvioinnin, so. kaupan kohteen arvoa verrataan samalla hetkellä muihin vastaviin kohteisiin, absoluuttisessa kutakin kohdetta arvioidaan eriseen. Subjektiivinen arvointi on kysymyksessä silloin, kun arvoa tarkastellaan yksityistalouden kannalta ja objektiivinen silloin, kun arvoa tarkastellaan yleiseltä kannalta. Objektiivisessa arvioinnissa subjekteja on useita ja arviokohdetta arvioidaan verraten sitä subjektijoukon keskiarvoon.
+Arvonmäärityksen vakiintunut lähtökohta on yrityksen taloudellista historiaa tarkasteleva lähestymistapa. Yrityksen ympäristötekijät ja immateriaalinen substanssi ovat olennainen osa arviointia.
+Larnemaa Ari: Ravintolakaupan sidosryhmät. Diplomityö. Haaga Instituutti 1997
+Leppiniemi Jarmo: Rahoitus. WSOY 1993
+Kallunki Juha-Pekka, Niemelä Jaakko: Yrityksen uusi arvonmääritys. Talentum 2007
+Lehtinen Jarmo R.: Asiakkuusstrateginen hallitus. Gummerus 2009

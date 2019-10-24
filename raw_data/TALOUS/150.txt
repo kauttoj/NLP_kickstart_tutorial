@@ -1,0 +1,10 @@
+Luettelo valtioista taloudellisen vapauden mukaan
+Luettelo valtioista taloudellisen vapauden mukaan on luettelo, jossa valtiot on asetettu järjestykseen taloudellisen vapauden mukaan. Se perustuu amerikkalaisen konservatiivisen ajatushautomon Heritage Foundationin ja taloussanomalehti The Wall Street Journalin vuosittaiseen raporttiin valtioiden taloudellisesta vapaudesta. Raportti on ilmestynyt vuosittain vuodesta 1995.
+Valtiot on pisteytetty ottamalla huomioon samalla painolla kymmenen osa-aluetta:
+Kullakin osa-alueella määritellään kuinka lähellä maa on prosentuaalisesti vapautta. Kokonaispistemäärä on osa-alueiden prosenttilukujen keskiarvo. Maat voidaan sitten asettaa järjestykseen taloudellisen vapauden toteutumisen mukaan.
+Fraser-instituutti julkaisee kilpailevaa mittaria "Economic freedom of the world".
+Empiiristen tutkimusten mukaan taloudellisen vapauden indeksi korreloi positiivisesti elintason, talouskasvun, tulojen tasaisuuden, korruption vähyyden ja poliittisen väkivallan vähyyden kanssa. 
+Ympäristön tila, eliniänodote, ihmisoikeustilanne, talouskasvu, keskitulot ja köyhimmän kymmenyksen tulotaso olivat sitä parempia ja korruptio vähäisempää, mitä korkeampi maan taloudellinen vapaus oli (vuonna 2007). Köyhimmän kymmenyksen osuus maan tuloista ei riippunut taloudellisesta vapaudesta. 
+Onnellisuus oli selvästi sitä korkeampi, mitä taloudellisesti vapaampi jokin maa oli (korrelaatio oli vahva).
+Korkea taloudellinen vapaus estää erittäin tehokkaasti sotia, noin 54 kertaa tehokkaammin kuin demokratia ("Democracy Score" -mittarilla mitattuna).
+Alla olevassa taulukossa on valtioiden sijoitus taloudellisen vapauden indeksissä vuosina 1995-2015. Maat saa kunkin vuoden mukaiseen järjestykseen painamalla vuosilukua.

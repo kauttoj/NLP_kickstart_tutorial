@@ -1,0 +1,2 @@
+FairCoin
+FairCoin on Fair Coop:in maaliskuussa 2014 lanseeraama kryptovaluutta, jonka väitetään olevan ensimmäinen "reilusti jaettu" kryptovaluutta. FairCoin on lisäksi ns. Proof-Of-Stake-kryptovaluutta eli se on ns. "valmiiksi louhittu", toisin kuin esim. Bitcoin, eli sen hankkimiseksi ei tarvitse valtavia määriä prosessoritehoa.

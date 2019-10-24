@@ -1,0 +1,2 @@
+Odds ratio
+Odds ratio on epidemiologinen assosiaatioluku, joka kertoo, kuinka paljon riskitekijälle altistuminen on yhteydessä sairastumiseen. Odds ration kääntäminen suomeksi on haasteellista, koska termi liittyy vedonlyöntiin. Sille on esitetty suomeksi termejä vetosuhde, suhteellinen tautipaine ja ristitulosuhde.

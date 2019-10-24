@@ -1,0 +1,7 @@
+Rahavaranto
+Rahavaranto on makrotaloudellinen käsite, joka viittaa rahan määrään taloudessa. Koska raha on periaatteessa mitä tahansa mitä voidaan käyttää velan kuittaamiseen, rahavarannolle on useita määritelmiä.
+Esimerkiksi Euroalueen määritellyt rahavarannot, joita Euroopan keskuspankki seuraa ovat:
+Näistä vain M1 on täysin likvidejä varoja, mutta M3 on puolestaan keskeisin rahavarannon mittari.
+Usein käytetään myös käsitettä M0, joka tarkoittaa yleisön hallussa olevia seteleitä ja kolikoita sekä muiden pankkien talletuksia keskuspankissa. 
+Rahavarannon määrä ja inflaatio ovat läheisesti riippuvaisia toisistaan. Teoriaa kausaalisesta suhteesta rahamäärän, rahan kiertonopeuden, BKT:n ja hintatason välillä kutsutaan rahan kvantiteettiteoriaksi. 
+Rahavarannon määrään vaikuttaa oleellisesti myös ns. likviditeettiaste kertoimella 1/L (kerroin johdettavissa suoraan suppenevan geometrisen sarjan summasta), jossa L on siis likviditeettiaste.

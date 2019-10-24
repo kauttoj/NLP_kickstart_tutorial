@@ -1,0 +1,5 @@
+Luettelo valtioista liiketoiminnan helppouden mukaan
+Luettelo valtioista liiketoiminnan helppouden mukaan on Maailmanpankin tutkijoiden alullepanema vertailu, jossa maat laitetaan järjestykseen sen perusteella, miten vähän maiden harjoittama talouden sääntely haittaa liiketoiminnan harjoittamista.
+Lainsäädännön ja viranomaistoiminnan aiheuttamat esteet liiketoiminnalle hidastavat klassisen taloustieteen mukaan talouskasvua estäen maan vaurastumista. Yhtenä vertailun tarkoituksena onkin opastaa maiden hallintoja sen suhteen mitä ne voisivat tehdä helpottaakseen liiketoimintaa ja siten edistää talouskasvua.
+Maiden loppusijoitus listalla perustuu vuodesta 2012 alkaen kymmeneen tekijään eli miten helppoa on: liiketoiminnan aloittaminen, rakennuslupien saaminen, sähkön saaminen toimitiloihin, omaisuuden rekisteröinti, luoton saanti, sijoittajien suojaaminen, verojen maksu, kansainvälinen kauppa, sopimusten täytäntöönpano ja liiketoiminnan lopettaminen.
+183:n valtion ja itsehallintoalueen järjestys liiketoiminnan helppouden mukaan vuosina 2007-2012. Maat saa kunkin vuoden mukaiseen järjestykseen painamalla vuosilukua.

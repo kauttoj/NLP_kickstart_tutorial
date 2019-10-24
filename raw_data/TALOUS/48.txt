@@ -1,0 +1,2 @@
+Strategiakartta
+Strategiakartta on strategian logiikan avaamiseen ja visualisoimiseen käytettävä työkalu. Strategiakartta siis kuvaa, kuinka organisaatio tuottaa arvoa. Sitä käytetään yleensä Balanced Scorecard (BSC) -tyyppisen strategisen ohjausjärjestelmän luomiseen. Itse asiassa koko nykyaikainen BSC-mittaristo perustuu strategiakarttoihin, joiden perusteella luodaan linkki mitattavien asioiden ja strategisesti tärkeiden asioiden välille neljän näkökulman sekä syy-seuraussuhteen mukaisesti. 

@@ -1,0 +1,4 @@
+Bruttotulo
+Bruttotulo tarkoittaa tuloa, josta ei ole vähennetty mitään. Bruttotulosta ei vähennetä esimerkiksi annettuja alennuksia, maksettuja kustannuksia tai veroja. Kun pienentävät erät vähennetään, saadaan nettotulo.
+Esimerkkejä bruttotulosta:
+Bruttotulo ja bruttotulos ovat eri käsitteitä. Bruttotulos saadaan vähentämällä bruttotulosta tietyt erät.

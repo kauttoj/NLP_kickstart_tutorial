@@ -1,0 +1,9 @@
+Markkinatutkimus
+Markkinatutkimuksen avulla hankitaan tietoja markkinatilanteista ja niiden muutoksista.
+Usein virheellisesti luullaan, että markkinatutkimus ja markkinointitutkimus ovat sama asia. Markkinatutkimuksen ja markkinointitutkimuksen erona on kootun ja analysoidun tiedon käyttötarkoitus: Markkinatutkimuksen avulla pyritään ymmärtämään paremmin markkinaa ja siellä vaikuttavia tekijöitä kun taas markkinointitutkimuksella tyypillisesti pyritään vertailemaan tehtyjen toimenpiteiden vaikutuksia.
+Nykyaikaisessa markkinatutkimuksessa nidotaan yhteen kerätty tutkimustieto, järjestelmät sekä toimenpide-ehdotukset.
+Markkinatutkimuksen käyttötarkoitukset:
+Markkinatutkimuksen tyypillinen toteutusprosessi:
+Markkinatutkimuksen tiedonkeruu toteutetaan tyypillisesti kysymällä kohderyhmän ihmisiltä kysymyksiä. Saadut vastaukset analysoidaan, minkä perusteella voidaan tehdä johtopäätöksiä. Markkinatutkimusta toteuttaessa on huomioitava kerättävän tiedon sisältö sekä kerätyn tiedon käyttötarkoitus, jonka perusteella laaditaan tutkimuskonsepti ja tiedonkeruun kysymysasettelu. Erityistä huomiota on kiinnitettävä myös tiedonkeruun kohderyhmään, jonka perusteella tyypillisesti valitaan tiedonkeruun kanavat. 
+Tiedonkeruun kanavia voivat olla esimerkiksi:
+Markkinatutkimuksen luotettavuuden kannalta olennaista on varmistua kysymysasettelun validiteetista sekä otannan ja otoksen reliabiliteetista. Perusajatus on, mitä enemmän vastaajia, sen luotettavammin voidaan tehdä johtopäätöksiä. Validiteetin varmistamiseksi syytä on kääntyä tutkijan tai muun tutkimusammattilaisen puoleen. Markkinatutkimuksia Suomessa toteuttavat esimerkiksi yliopistot, ammattikorkeakoulut sekä markkinatutkimusalan yritykset.

@@ -1,0 +1,6 @@
+Palvelu
+Palvelu tarkoittaa taloustieteessä aineettoman hyödykkeen tuotantoa asiakkaalle. Palvelun ikään kuin vastakohtainen hyödyke on tuote.
+Palvelut määritellään yleensä suhteessa konkreettisiin tuotteisiin, jolloin niillä voidaan nähdä olevan seuraavat neljä erityispiirrettä:
+Palveluja tuottavat sekä yksityiset yritykset että julkisyhteisöt. Yritykset tuottavat palveluja joko kuluttajille tai toisille yrityksille. Julkisia palveluja taas ovat esimerkiksi terveyskeskuksen, sairaalan, koulun, kirjaston, päiväkodin, poliisin ja tuomioistuimen palvelut. Myös koneet voivat tuottaa palveluja, kuten telepalveluja.
+Palvelun tuottamiseen tarvitaan yleensä tuotantovälineitä, joista tärkein on työvoima. Palveluala on työvoimavaltainen.
+Tietokoneissa esimerkiksi WWW-palvelinta kutsutaan verkkopalveluksi (network service).

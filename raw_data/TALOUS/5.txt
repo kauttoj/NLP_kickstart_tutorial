@@ -1,0 +1,7 @@
+Kovenantti
+Kovenantti on luottosopimukseen otettava erityisehto, joka korvaa vakuuden. 
+Kovenanttia voidaan kutsua myös sopimusvakuudeksi.
+Kovenantti voi koskea esimerkiksi luotonsaajan omavaraisuusastetta tai muuta rahoitusrakennetta. Asetetun ehdon rikkoutuessa on luotonantajalla oikeus esimerkiksi korottaa luoton korkomarginaalia tai jopa irtisanoa luotto.
+Kovenantteja käytetään tavallisimmin kansainvälisessä luottokaupassa. Kovenanttien käyttö perustuu vastaavaan tarpeeseen kuin vakuuksien: luotonantaja haluaa pienentää luoton takaisinmaksuun liittyvää riskiään. Riskin pienentäminen toteutetaan pyrkimällä varmistamaan luotonsaajan tulevaisuuden maksukyky puuttumalla jonkin verran velallisyrityksen toimintaan. Kovenantteihin ei liity vakuuksille tyypillisiä etu- ja erioikeuksia.
+Kovenanttien avulla turvataan ensinnäkin velallisyrityksen liiketoiminnan pysyminen terveenä eli estetään maksukyvyttömyyden ajankohtaistuminen. Toisaalta niillä turvataan velkojan mahdollisuus saada tietoja velallisyrityksen taloudelliseen asemaan vaikuttavista riskeistä hyvissä ajoin. Vielä kovenantti voi turvata velkojan asemaa velallisyrityksen maksukyvyttömyystilanteessa esimerkiksi kieltämällä velallista antamasta vakuuksia muille velkojille (nk. "negative pledge"-sitoumus). 
+Kovenanttien käyttö kansainvälisessä kaupassa johtuu velkojien yhdenvertaisuudesta ja käytännön syistä: rajat ylittävään luotonantoon liittyy useita käytännön hankaluuksia. Toisaalta vakuuksia ei ehkä voida pyytääkään, jos luotonhakija on merkittävämpi toimija kuin luotonantaja. 

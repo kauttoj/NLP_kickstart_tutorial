@@ -1,0 +1,5 @@
+Pareton periaate
+Pareton periaate on Pareto-jakaumien erityistapaus, jonka mukaan missä tahansa ilmiössä 80 % seurauksista johtuu 20 %:sta syistä. 
+Italialainen Vilfredo Pareto tutki vaurauden jakautumista suhteessa väestöön 1800-luvun Englannissa alkaen kesästä 1897. Tutkimusten tuloksena syntyi epäoikeudenmukaisen jakaumisen teoria, ja Pareton havainto tunnetaan nykyään 80/20-sääntönä. Englantilainen George Zipf havaitsi kielitieteellisissä tutkimuksissaan vuonna 1949 Pareton vaurauskäyrää vastaavan ilmiön (hyvin pientä osaa kielen sanastosta käytetään erittäin paljon ja hyvin suurta osaa vastaavasti erittäin vähän). Nämä tulokset tunnetaan Zipfin lain nimellä.
+Pitkä häntä () tarkoittaa liiketoiminnan yhteydessä tilannetta, jossa liiketoimintaympäristön muutos mahdollistaa kannattavan liiketoiminnan potenssijakauman vähävolyymisellä alueella. Pitkä häntä -ilmiöstä huolimatta Pareton periaate on edelleen voimassa.
+80/20-sääntö ymmärretään usein väärin. Tähän on useita syitä:

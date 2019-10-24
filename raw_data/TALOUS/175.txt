@@ -1,0 +1,3 @@
+Työpaikkaomavaraisuus
+Työpaikkaomavaraisuus on jollakin alueella (esimerkiksi kunnassa) työssäkäyvien ja siellä asuvan työllisen työvoiman suhde. Jos alueella on enemmän työpaikkoja kuin työntekijöitä, niin alueen työpaikkaomavaraisuus on yli 100 prosenttia. Jos taas työntekijöitä on enemmän kuin työpaikkoja, niin työpaikkaomavaraisuus on alle 100 prosenttia.
+Vuonna 2009 Suomessa oli 68 kuntaa, joiden työpaikkaomavaraisuus oli yli 100 prosenttia. Suurin työpaikkaomavaraisuus oli Maarianhaminassa (181 prosenttia) ja pienin Lemlandissa (32 prosenttia).

@@ -1,0 +1,4 @@
+Soluhoito
+Soluhoito on Suomen Punaisen Ristin Veripalvelun kehittämä hoitomuoto, jossa hoidettavalle annetaan lääkesoluja. Lääkesoluja kasvatetaan vapaaehtoisilta luovuttajilta saadun luuytimen kantasoluista. Niitä annetaan potilaalle annoksena kuusi kertaa, ja kullakin kerralla potilaan verenkiertoon siirtyy kaksi miljoonaa lääkesolua. Soluvalmisteessa on mesenkymaalisia stroomasoluja.
+Hoitoa käytetään potilaille, joille ei ole muuta hoitoa. Heille on yleensä tehty kantasolusiirto leukemian hoitamiseksi, mutta hyljintäreaktion hoitoon käytetyt lääkkeet eivät aina tehoa, vaan heille voi muodostua käänteishyljintä ja seurauksena voi olla jopa kuolema. 
+Hoito on toistaiseksi kokeellista, mutta 70 prosenttia hoidetuista on saanut hyötyä.

@@ -1,0 +1,5 @@
+Offshore-yritys
+Offshore-yritys on veroparatiisiyhtiöihin liitetty käsite.
+Verohallinnon mukaan offshore-yrityskäsitettä selvitetään tähän tapaan:
+"Veroparatiisiyhtiön keskeinen tunnusmerkki ja edullisen verokohtelun edellytys on yleensä se, että yhtiön (liike)toiminta tapahtuu muualla kuin rekisteröintivaltiossa. Nimi offshore-yhtiö juontaa siis juurensa tästä, eli toiminta tapahtuu muualla kuin rekisteröintivaltiossa. 
+Mikäli yhtiö harjoittaa toimintaa rekisteröintivaltiossa (onshore), kuuluu se tämän valtion sääntelyn piiriin eikä saa mitään erityiskohtelua verotuksen tai muun lainsäädännön suhteen." (viitaten: )

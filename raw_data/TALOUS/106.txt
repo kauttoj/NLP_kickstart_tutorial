@@ -1,0 +1,2 @@
+Vaihtokurssi
+Vaihtokurssi on rahan arvon mittari, jolla mitataan yhden valuutan arvoa toisessa valuutassa. Esimerkiksi 1 Ã¢â€šÂ¬ = 165 jeniä tarkoittaa että yhden euron saa vaihdettua 165 jeniin. Vaihtokurssit määritellään päivittäin maailman markkinoilla liikkuvan rahan mukaan. Jos esimerkiksi markkinoilla vaihdetaan euroa paljon Yhdysvaltain dollariin, niin euron suhde dollariin heikkenee, jos taas dollaria vaihdetaan runsaasti euroon, niin euron suhde dollariin vahvistuu.

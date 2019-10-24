@@ -1,0 +1,4 @@
+Valuuttatili
+Valuuttatili on pankkitalletustili. Kotimainen valuuttatili on tarkoitettu kotimaassa, esimerkiksi Suomessa asuvan suomalaisen valuuttatalletuksille. Ulkomailla asuvia suomalaisia ja Suomessa asuvia ulkomaalaisia varten tilimuoto on vaihdettava valuuttatili.
+Valuuttatilejä ei Suomessa ole kovin paljon. Niitä on erityisesti ulkomaankauppaa käyvillä yrityksillä, mutta jossain määrin myös yksityisillä.
+Valuuttatilillä on aina kurssiriski. Varallisuuden suojaamisessa taloudellisen tilanteen kärjistymisen varalta on vakavarainen pankki pankkien mukaan valuuttatiliä varmempi suoja.

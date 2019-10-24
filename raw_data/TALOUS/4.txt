@@ -1,0 +1,3 @@
+Maapallon arvo
+Maapallon arvo tarkoittaa maapallon taloudellista arvoa.
+Vihreässä taloustieteessä se on arvio ekosysteemin arvosta ja tärkeä laskelmille elämän arvosta. On useita tapoja arvioida maapallon arvoa.

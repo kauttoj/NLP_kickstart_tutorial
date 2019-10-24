@@ -1,0 +1,3 @@
+Futarkia
+Futarkia on ekonomisti Robin Hansonin kuvailema hallintomuoto, jossa valitut virkamiehet käyttävät ennustemarkkinoita hyväkseen määritellessään positiivisinta menettelytapaa.
+Hallinnolla on päätettävään pitäisikö tiettyä infrastruktuuriprojektia rahoittaa. Futarkiassa luodaan tällöin kaksi ennustemarkkinaa, joissa ihmiset lyövät vetoa onko bruttokansantuote isompi vai pienempi esimerkiksi vuoden kuluttua päätöksestä. Markkinan sulkeuduttua katsotaan kummalla vaihtoehdolla bruttokansantuote arvioidaan olevan suurempi ja tehdään päätös sen mukaan. Vuoden kuluttua on tiedossa oikea sen hetkinen bruttokansantuote. Tällöin ennustemarkkinoissa oikein arvioineet voittavat rahaa ja väärin arvioineet häviävät.

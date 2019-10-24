@@ -1,0 +1,4 @@
+Agonisti
+Agonisti eli "reseptorinaktivoija" on kemiallinen yhdiste, joka rakenteensa perusteella eli ligandina ja elimistön viestimolekyylien tavoin aktivoi kohdereseptoriaan ja käynnistää siihen kytkeytyvän solun fysiologisen signaalinvälitysmekanismin. Agonistin vaikutus voidaan kumota agonistin kanssa samaan reseptoriin sitoutuvalla antagonistilla eli reseptorinsalpaajalla.
+Jos agonisti saa aikaan reseptoria stimuloimalla täyden vasteen eli täysin saman vaikutuksen kuin elimistön oma viestimolekyyli, se on täysagonisti. Jos vaste ei ole täydellinen vaan osittainen, kyseessä on osittaisagonisti.
+Jos agonisti saa aikaan vastakkaisen vaikutuksen kuin elimistön oma viestimolekyyli, kyseessä on käänteisagonisti.

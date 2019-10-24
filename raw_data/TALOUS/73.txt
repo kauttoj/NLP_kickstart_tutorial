@@ -1,0 +1,3 @@
+Rahayksikkö
+Rahayksikkö on rahan mittayksikkö. Rahayksikön ja valuutan nimet ovat yleensä mutta eivät aina yhteneviä: esimerkiksi Kiinan valuutta on nimeltään "renminbi" (kirj. "kansan raha"), mutta sen rahayksikkö on yuan.
+Alkaen 1. tammikuuta 2002 Suomen rahayksikkö on euro. Tätä ennen se oli markka.

@@ -1,0 +1,4 @@
+Asiakastutkimus
+Asiakastutkimus on tutkimus, jolla selvitetään esimerkiksi asiakastyytyväisyyttä, asiakkaiden mieltymyksiä, ostopäätöksiin vaikuttavia tekijöitä tai asiakassuhteen muutoksia. Asiakastutkimuksen tiedonkeruumetodit ovat markkinatutkimuksen kaltaisia, eli asiakastutkimuksen tiedonkeruu tyypillisimmin toteutetaan kyselynä.
+Asiakastyytyväisyys on yksi yrityksen tärkeimpiä tavoitteita kestävän kehityksen varmistamisessa. Siksi asiakastyytyväisyystutkimus on tyypillisin asiakastutkimuksen muoto ja samalla yksi yleisimmin toteutettuja tutkimuksia yrityksissä. 
+Asiakastyytyväisyyteen liittyy kiinteästi asiakasuskollisuus tai asiakaslojaliteetti. Suomalaisten yritysten asiakasuskollisuutta on tutkittu mm. TNS gallupin Asiakkuusindeksi-tutkimuksessa.

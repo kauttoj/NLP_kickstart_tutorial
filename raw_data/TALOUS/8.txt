@@ -1,0 +1,4 @@
+Teknologinen konvergenssi
+Teknologinen konvergenssi tarkoittaa suuntausta, jossa erilliset teknologiat lähestyvät toisiaan ja muuttuvat samankaltaisemmiksi. Ilmiöstä voidaan käyttää myös termiä teknologinen samankaltaistuminen tai teknologinen samaistuminen.
+Esimerkiksi tietokoneeseen on sen kehityksen aikana konvergoitunut, yhtynyt mm. laskin (taulukkolaskenta), kirjoituskone (tekstinkäsittely), posti (sähköposti), pankki (maksaminen Internetissä), kirjasto (Internet), pelaaminen (tietokonepelit).
+Taloudellisessa yhteydessä voidaan tarkoittaa toimialojen teknologista konvergenssia. Siinä on kyse eri toimialoilla olevien yritysten käyttämien tai tuottamien tuotteiden sekä palveluiden teknologioiden samankaltaistumisesta. 

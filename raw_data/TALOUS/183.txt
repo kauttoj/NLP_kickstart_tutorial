@@ -1,0 +1,5 @@
+Omavastuu
+Omavastuu tarkoittaa taloustieteessä sitä riskiä, joka jää vahinkotapauksessa vahingon aiheuttajan korvattavaksi. Vakuutustoiminnassa omavastuulla tarkoitetaan sitä osaa vastuusta, joka jää vahinkotapauksessa vakuutuksenottajan kannettavaksi. Omavastuulla voidaan tarkoittaa myös sitä osaa maksusta, joka palvelun saajan tai tuotteen ostajan pitää itse maksaa silloin, kun hänellä on oikeus saada korvausta tai verovähennystä maksamistaan kustannuksista.
+Vakuutussopimuksissa on yleisesti käytössä omavastuuehto, jonka mukaan vakuutetun on kannettava osa vahingosta itse. Omavastuun määrä voi olla kiinteä euromääräinen summa tai sovittu prosenttiosuus vahingon määrästä.
+Omavastuuehdoilla on tyypillisesti kaksi erillistä tarkoitusta:
+Käytännössä omavastuuehtojen tarkoitusten erottaminen toisistaan ei ole mahdollista, koska yleensä omavastuuehdoilla pyritään saavuttamaan yhtä aikaa molemmat tavoitteet. Omavastuuehto voi olla esimerkiksi sellainen, että vakuutetun on kaikissa tapauksissa kannettava 250 euron suuruinen omavastuu vahingosta, mutta sen lisäksi kannettava vahingosta myös sovittu prosentuaalinen osuus (kuten 10 prosenttia vahingon määrästä).

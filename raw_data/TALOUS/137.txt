@@ -1,0 +1,4 @@
+Ensitulo
+Ensitulo on tuloa, jonka kotimaiset talousyksiköt saavat osallistumisestaan tuotantoon ja korvauksia, jotka rahoitus- ym. varojen omistaja saa varojen järjestämisestä toisen yksikön käytettäväksi. Tulo voi olla palkansaajakorvauksia, tuotanto- ja tuontiveroja vähennettynä tukipalkkioilla, toimintaylijäämää tai sekatuloa sekä omaisuustuloa. (EKT 1995 8.22)
+Palkansaajakorvaukset + toimintaylijäämä ja sekatulo + omaisuustulot - omaisuusmenot = sektorin ensitulo
+Kotimaisten sektoreiden ensitulojen summa = kansantulo = BKTL = BKT - kotimaisten talousyksiköiden ulkomaisille talousyksiköille maksamat ensitulot + kotimaisten talousyksiköiden ulkomaisilta talousyksiköiltä saamat ensitulot.

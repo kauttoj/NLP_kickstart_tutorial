@@ -1,0 +1,3 @@
+Kapasiteetti
+Kapasiteetti on suurin mahdollinen tuotantokyky. Yleensä suurteollisuudessa kapasiteetti ilmoitetaan vuosituotantona. Mikäli käyttöaste on 100 %, niin tehdas tuottaa täyden kapasiteettinsa verran. Käyttöasteella tarkoitetaan sitä osaa kapasiteetista, mikä kulloinkin on käytössä.
+Myös yleissana, esimerkiksi akun, muistin, liikenneväylän kapasiteetti.

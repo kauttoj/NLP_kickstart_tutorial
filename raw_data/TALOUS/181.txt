@@ -1,0 +1,4 @@
+Kulutusaste
+Kulutusaste formula_1 on se osa yksilön tai ryhmän tuloista, joka menee kulutukseen. Jos tulo on formula_2, siitä kulutetaan summa formula_3 ja säästetään summa formula_4, niin kulutusaste on formula_5 ja säästämisaste (säästöaste) on formula_6 eli se osa tuloista, joka menee säästöön.
+Kyseisen ryhmän ollessa koko kansantalous käytetään termejä kansantalouden säästämisaste ja kansantalouden kulutusaste.
+Mittakaavaetujen puuttumisen olettava Solow'n kasvumalli ennustaa, että säästämisasteen pysyvä nousu nostaa talouskasvun uudelle, korkeammalla sijaitsevalle kasvu-uralle, samoin pääoman määränä työntekijää kohden. Tämän nousun (uuteen tasapainoon suppenemisen) ajan talouskasvu on korkeampi ja sen jälkeen taas sama kuin ennen mutta bruttokansantuote on siten pysyvästi korkeampi. Muutos johtuu siitä, että enempi pääoma lisää työvoiman tuottavuutta.

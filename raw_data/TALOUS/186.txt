@@ -1,0 +1,4 @@
+Rahan kiertonopeus
+Rahan kiertonopeudella tarkoitetaan taloudessa sitä nopeutta, millä raha siirtyy rahanhaltijalta toiselle. Toisin sanottuna se on luku, joka kertoo, kuinka monta kertaa rahavarannon kukin rahayksikkö on vuoden aikana käytetty. Se lasketaan jakamalla kansantaloudessa tiettynä ajanjaksona maksettujen maksujen kokonaissumma rahan määrällä.
+Rahamäärän lisäämisen arvioidaan aiheuttavan yleisen hintatason nousua ja sen vähennys taas hintatason laskua. Rahan arvo siis riippuu osittain liikkeessä olevan rahan määrästä. 
+Väitetään, että Itävallan Wörglin pikkukaupungissa vuosina 1932Ã¢â‚¬â€œ1933 tehdyssä paikallisvaluuttakokeilussa onnistuttiin lisäämään paikallisrahan kiertonopeus 12-14 kertaa nopeammaksi kuin kansallisen Itävallan shillingin, pelkästään yksinkertaisen demurrage-veron eli "hamstrausveron" tai "valuutan parkkimaksun" avulla.

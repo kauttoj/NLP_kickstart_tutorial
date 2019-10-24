@@ -1,0 +1,2 @@
+Varanto-virtaus-malli
+Varanto-virtaus-malli on fysiikassa ja taloustieteissä sovellettava malli, jolla voidaan mallintaa erilaisten nesteiden tai rahavirtojen kulkua systeemissä. Mallissa on varastoja, joissa on säilössä mallinnettavaa asiaa (nesteitä tai rahaa) ja virtoja, joita pitkin asiat siirtyvät varastosta toiseen. Malli luokitellaan kuuluvaksi säätöteoriaan. 

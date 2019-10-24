@@ -1,0 +1,5 @@
+TerveSuomi.fi
+TerveSuomi.fi oli Terveyden ja hyvinvoinnin laitoksen koordinoima virallinen terveystietopalvelu, jonka sisällön tuotti laaja verkosto terveysalan tutkimus- ja asiantuntijalaitoksia, viranomaisia ja terveysjärjestöjä.
+TerveSuomi-portaali oli valtakunnallinen verkkopalvelu, joka tarjosi pääsyn hajautetusti tuotettuihin terveyden ylläpidon ja parantamisen kannalta tärkeisiin sisältöihin. TerveSuomi-portaali edisti väestön terveyttä yhdenvertaisesti ajasta ja paikasta riippumatta. Se tarjosi terveystietoa omasta ja läheistensä terveydestä ja hyvinvoinnista kiinnostuneille.
+Tekninen toteutus perustui Teknillisen korkeakoulun Suomalaiset semanttisen webin ontologiat -hankkeeseen. TerveSuomi-portaali oli toteutettu Kansanterveyslaitoksen Kansalaisen terveystietoportti -hankkeessa.
+THL lopetti portaalin ylläpidon 2014.

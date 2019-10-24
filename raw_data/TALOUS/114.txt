@@ -1,0 +1,3 @@
+Kelluva valuuttakurssi
+Kelluva valuuttakurssi (ruotsiksi: "flytande växelkurs", englanniksi: "floating currency") on valuuttajärjestelmään liittyvä käsite, joka tarkoittaa valuuttaa, jonka kurssi määräytyy markkinoiden kysynnän ja tarjonnan perusteella.
+Sen vastakohta on kiinteä valuuttakurssi, jonka arvo pidetään vakaana ja joka määräytyy poliittisen päätöksen seurauksena.

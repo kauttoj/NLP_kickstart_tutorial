@@ -1,0 +1,13 @@
+Huoltotase
+Huoltotase on kansantalouden kokonaistarjonnan ja kokonaiskysynnän tase. Siitä näkyy mihin kansantalouden hyödykkeet on käytetty sekä mistä ne ovat peräisin. Sen rakenne on seuraavanlainen:
+Bruttokansantuote (eli P)<br>
++ Tuonti (eli M)<br>
+<nowiki>=</nowiki> Kokonaistarjonta<br>
+---<br>
+Kulutus (yksityinen ja julkinen) (eli C)<br>
++ Investoinnit (yksityinen ja julkinen) (eli I)<br>
++ Vienti (eli X)<br>
++ Varastojen muutos<br>
+<nowiki>=</nowiki> Kokonaiskysyntä
+Huoltotase voidaan esittää siis muodossa: P + M = C + I + X
+Kokonaiskysyntä ja kokonaistarjonta ovat aina tasapainossa. Mikäli näin ei ole, tasaus tehdään varastojen muutoksella.

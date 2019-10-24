@@ -1,0 +1,3 @@
+Mikromaksu
+Mikromaksu tarkoittaa hyvin pientä rahallista korvausta jostain palvelusta. Mikromaksuja on käytössä muun muassa erilaisissa verkkopalveluissa ja verkkopeleissä. Mikromaksulla voi esimerkiksi ostaa musiikkikappaleen internetistä ladattavaksi omalle koneelle tai hankkia verkkopelin hahmolle uusia vaatteita. PayPal on määritellyt mikromaksun suuruudeksi korkeintaan 12 dollaria.
+Mikromaksujen suorittamiseen on olemassa useita palveluita, esimerkiksi Flattr. 2010-luvulla suosiota saavuttaneet erilaiset virtuaalivaluutat kuten Bitcoin mahdollistavat hyvinkin pienten mikromaksujen maksamisen ilman suuria välityskuluja.

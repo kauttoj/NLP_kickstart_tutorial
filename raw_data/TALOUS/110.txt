@@ -1,0 +1,4 @@
+Valuuttaindeksi
+Valuuttaindeksi on mittaamisjärjestelmä, jolla mitataan jonkin maan rahan ulkoista arvoa.
+Suomessa otettiin valuuttaindeksi käyttöön vuonna 1977, kun rahalakiin tehtiin muutos, jonka mukaan markan ulkoinen arvo ilmaistiin valuuttaindeksilukuna, joka osoitti Suomen ulkomaankaupan kannalta tärkeiden valuuttojen kurssien keskimääräisen muutoksen. Siinä indeksissä laskettiin Suomen ulkomaankaupan kannalta keskeisimpien maiden valuuttojen kursseille painot, jotka vastasivat kyseisten maiden osuutta Suomen ulkomaankaupasta. Kun markka revalvoitiin tai devalvoitiin, sen ulkoista arvoa osoittavan valuuttaindeksi vaihteluväli muuttui.
+Järjestelmää ovat soveltaneet myös esimerkiksi ruotsi ja Norja. Suomi luopui valuuttaindeksin käytöstä vuonna 1991, kun markka kiinnitettiin heinäkuussa ecuun ja suurlaman hellittäessä markka liitettiin lokakuussa 1996 ERM:iin, mikä oli valmistautumista euroon vuoden 1999 alusta lähtien kurssilla 5,94573 mk = 1.

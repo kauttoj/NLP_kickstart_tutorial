@@ -1,0 +1,4 @@
+Valuuttakori
+Valuuttakori on valuuttaindeksin painorakenteen määrittelevä valuuttaryhmä.
+Pankeilla on virallisten korien ohella omia valuuttakorejaan, usein kolme neljä valuuttaa. Niillä pyritään suojaamaan valuuttamääräisen lainan (valuuttakoriluoton) ottajaa ulkomaisten valuuttojen keskinäisistä kurssimuutoksista johtuvilta kurssiriskeiltä.
+Ennen euroa valuuttakorin tehtävää vastasi Euroopan valuuttayksikkö ecu.

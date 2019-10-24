@@ -1,0 +1,4 @@
+Käypä arvo
+Käypä arvo on todennäköinen luovutushinta, joka kaupan kohteesta vapailla markkinoilla saataisiin toisistaan riippumattomien tahojen välisessä kaupassa. Vastaava termi on myös "markkina-arvo". Käyvän arvon muodostumiseen vaikuttaa myös henkilökohtainen hyötyarvo, johon liittyvät muun muassa vaihtoehtoiset hankintamenot ja odotettavissa olevat käyttökustannukset.
+Käypää arvoa voi selvittää monilla menetelmillä. Eniten käytetty on kauppa-arvomenetelmä, jossa ratkaisun perusteena ovat arvostettavan kohteen kanssa vertailukelpoisten kohteiden myynnit. Jos vertailukauppoja ei ole riittävästi, arvostuksessa voidaan käyttää apuna esimerkiksi tuottoarvoihin perustuvia laskentakaavoja.
+Kiinteistöjen arvon määrityksessä voidaan yleisesti käyttää kauppa-arvoa, tuottoarvoa tai kustannusarvoa.

@@ -1,0 +1,3 @@
+Velkaantumisaste
+Velkaantumisaste on kansantalouden tunnusluku, jolla kuvataan kotitalouksien velkaantumisen tasoa. Velkaantumisaste kertoo kuinka paljon maan kotitalouksilla on velkaa suhteessa niiden tuloihin vuositasolla. Kansakunnan velkaantumisaste lasketaan jakamalla kaikkien kotitalouksien yhteinen velkakanta ja jakamalla se niiden yhden vuoden tuloilla..
+Gearing eli nettovelkaantumisaste on tunnusluku, joka antaa kuvan yrityksen velkaantumisasteesta. Gearing lasketaan jakamalla korolliset nettovelat yrityksen omalla pääomalla. Gearing esitetään yleensä prosentteina.

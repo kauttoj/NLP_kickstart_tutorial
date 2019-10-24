@@ -1,0 +1,2 @@
+DrugBank
+DrugBank on Albertan yliopiston ylläpitämä lääketietokanta. Se sisältää yli 4100 lääkkeestä yksityiskohtaisia kemikaalisia, farmakologisia ja farmaseuttisia tietoja. Lääketietoihin on linkitetty yli 15000 proteiinijaksoa. Jokaiseen tietokantasyötteeseen (DrugCard) on sisällytetty yli 80 tietokenttää, joista puolet käsittelee lääkkeeseen/kemiaan liittyviä tietoja ja toinen puoli muita tietoja, kuten proteiinitietoja.

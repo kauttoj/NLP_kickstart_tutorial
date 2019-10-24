@@ -1,0 +1,17 @@
+Modaliteetti
+Modaliteetti (< ) merkitsee jonkin asian tai tapahtuman laatua.
+Ontologiassa modaliteetti tarkoittaa olemisen tapaa, esimerkiksi välttämätön, sattumanvarainen (kontingentti) tai mahdollinen. Logiikassa arvostelmat voidaan jakaa varmuusasteensa mukaan kolmeen modaliteettiin: "problemaattisiin" (mahdollinen), "assertorisiin" (aktuaalinen) ja "apodiktisiin" (välttämätön).
+Psykologiassa modaliteetilla tarkoitetaan yleensä aistikanavaa, esimerkiksi näkö, kosketus tai kuulo. Lääketieteellisessä tekniikassa ja radiologiassa modaliteetti tarkoittaa erilaisia menetelmiä, joilla tutkimus voidaan suorittaa, esimerkiksi röntgenkuvaus, magneettikuvaus tai ultraääni.
+Ontologiassa olevaa voidaan jaotella paitsi kategorioihin eli entiteettiluokkiin myös modaliteetteihin eli olemisen tapoihin. Eri modaliteetteja ovat mahdollinen, kontingentti ja välttämätön. Aristoteles erotteli toisistaan lisäksi aktuaalisen ja potentiaalisen olevan.
+Se, miten modaliteetteja on tulkittu, on muuttunut filosofian historiassa vähitellen.
+Modaliteetit voidaan määritellä suhteessa toisiinsa seuraavasti (missä "a" on entiteetti, kuten esim. olio, väittämä tai asiaintila):
+Tällainen tulkinta on synkroninen: sen mukaan tapahtumien kululle on olemassa aitoja vaihtoehtoja. Tämän johdosta modaliteetteja tutkitaan nykyisin mahdollisten maailmojen avulla.
+Antiikin aikana modaliteetit tulkittiin yleensä "diakronisesti" eli suhteessa aikaan seuraavasti:
+Esimerkiksi Aristoteleelle mahdollisuus yllä annetussa merkityksessä ei ollut aitoa mahdollisuutta â€” aito mahdollisuus oli sellaista, joka oli kontingenttia, mutta ei välttämätöntä eikä mahdotonta. Ajan suhteen tehty tulkinta tarkoitti, että jokainen aito mahdollisuus toteutuu joskus (runsauden periaate).
+Aktuaalisuus ja potentiaalisuus ovat Aristoteleen metafysiikan ja luonnontieteen peruskäsitteitä, jotka liittyvät muutokseen.
+Aristoteleelle muutos oli potentiaalisen tulemista aktuaaliseksi, potentiaalisen tarkoittaessa olion kykyä tai mahdollisuutta tulla joksikin ja aktuaalisuuden tarkoittaessa olion nykyistä tilaa. Hänen filosofiassaan aito mahdollisuus (kontingenssi) ja potentiaalisuus käytännössä samaistuivat toisiinsa.
+Apodiktinen arvostelma on sellainen arvostelma, joka on välttämättä tosi. "Apodiktisuus" (, Ã¢â‚¬Âtodistettavissa olevaÃ¢â‚¬Â) tarkoittaa ehdotonta varmuutta, epäilemättömyyttä.
+Assertoriset arvostelmat väittävät vain, että jokin asiantila on tosi tai epätosi.
+Problemaattiset arvostelmat väittävät vain, että jokin on mahdollista.
+Esimerkiksi arvostelma Ã¢â‚¬Â2 + 2 = 4Ã¢â‚¬Â on apodiktinen, arvostelma Ã¢â‚¬ÂHelsinki on suurempi kuin LappiÃ¢â‚¬Â on assertorinen, ja arvostelma Ã¢â‚¬Âyritys voi olla varakkaampi kuin valtioÃ¢â‚¬Â on problemaattinen.
+Aristoteelisessa logiikassa Ã¢â‚¬ÂapodiktinenÃ¢â‚¬Â on Ã¢â‚¬ÂdialektisenÃ¢â‚¬Â vastakohta: tieteellinen todistaminen asettuu todennäköisyyksiin ja mahdollisuuksiin liittyvää päättelyä vastaan. Immanuel Kant asetti apodiktisen assertorista ja problemaattista vastaan teoksessaan "Puhtaan järjen kritiikki".

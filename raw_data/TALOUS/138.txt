@@ -1,0 +1,9 @@
+Käytettävissä oleva tulo
+Käytettävissä oleva tulo on tilastoinnissa käytetty määritelmä. Se lasketaan vähentämällä brutto- eli kokonaistulosta tulovero ja muut tulonsiirrot. Kansantalouden tilinpidossa se lasketaan sektoreittain lisäämällä ensituloon saadut ja vähentämällä maksettavat tulonsiirrot. Käytettävissä oleva tulo voidaan käyttää kulutukseen tai säästää.
+Käytettävissä olevat tulo on tulonjakotilaston keskeisin tulokäsite. Sitä käytetään myös kulutustutkimuksessa.
+Palkansaajakorvaukset + toimintaylijäämä ja sekatulo + omaisuustulot - omaisuusmenot = sektorin ensitulo
++ saadut tulonsiirrot - maksetut tulonsiirrot = käytettävissä oleva tulo.
+Palkkatulot + yrittäjätulot = työtulo
++ omaisuustulot = tuotannontekijätulot
++ saadut tulonsiirrot = bruttotulot
+- maksetut tulonsiirrot = käytettävissä oleva tulo.

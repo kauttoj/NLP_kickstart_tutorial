@@ -1,0 +1,2 @@
+Reaalinen muutos
+Reaalinen muutos on taloustieteessä yleensä arvon tai hinnan muutos, josta on poistettu inflaation vaikutus. Reaaliarvo on hyödykkeen todellinen arvo. Reaaliarvo lasketaan käyttäen valitun perusvuoden hintoja. Nimelliset suureet taas perustuvat tarkasteluvuoden hintoihin. Termi "reaalinen" viittaa siihen, että tarkastellaan todellista muutosta, josta on poistettu hintojen nousun aiheuttama näennäinen muutos. Esimerkiksi BKT:n kasvu ilmoitetaan tavallisesti reaalisena.

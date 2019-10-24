@@ -1,0 +1,5 @@
+Virtuaaliviivakoodi
+Virtuaaliviivakoodi on kutsumanimi pankkiviivakoodistandardin mukaiselle laskun tietojen esitystavalle numeerisessa muodossa. 
+Pankkiviivakoodi on Suomen Pankkiyhdistyksen (nykyisin Finanssialan keskusliitto - FK) hyväksymä maksutapahtumatietojen esitystapa. Pankit ovat yhdessä kehittäneet pankkiviivakoodin maksujen käsittelyn nopeuttamiseksi ja maksutietojen oikeellisuuden varmistamiseksi. 
+Paperilaskuihin voidaan tulostaa viivakoodi optisesti luettavassa muodossa, joka helpottaa laskun maksamista koska tietoja ei tarvitse syöttää käsin. Virtuaaliviivakoodi on mahdollista luoda siihen tarkoitukseen tehdyllä palvelulla.
+Virtuaaliviivakoodilla tarkoitetaan pankkiviivakoodin numeerista versiota jota voidaan käyttää tilanteessa, jossa lasku toimitetaan sähköisesti (esimerkiksi sähköposti, NetPosti)
