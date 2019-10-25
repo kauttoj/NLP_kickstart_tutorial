@@ -14,6 +14,8 @@ In this mini-tutorial, I'll do some NLP using following Python packages:
 
 (+ Numpy, Pandas and Pyplot as usual)
 
+Installing all above libraries might take some time & effort depending on your platform. Just follow the instructions of their official documents.
+
 There are three Notebooks:  
  PART 1 with preprocessing and classical topic classification using TF-IDF scaling  
  PART 2 with simple word and document embeddings and LDA topic modeling  
