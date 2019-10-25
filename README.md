@@ -30,8 +30,8 @@ https://www.kielipankki.fi/tools/
 https://nlpforhackers.io/libraries/  
 
 Some interesting packages that I might cover in PART 4 (some day):
--DeepPavlov (for chatbots)
--AllenNLP (large collections of algorithms/models)
+-DeepPavlov (for chatbots)  
+-AllenNLP (large collections of algorithms/models)  
 
 
 24.10.2019 Janne Kauttonen
