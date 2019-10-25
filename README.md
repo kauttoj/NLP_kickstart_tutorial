@@ -29,7 +29,7 @@ https://github.com/TurkuNLP/Text_Mining_Course
 https://www.kielipankki.fi/tools/  
 https://nlpforhackers.io/libraries/  
 
-Some interesting packages that I might cover in PART 4 (some day):
+Some interesting packages that I might cover in PART 4 (some day):  
 -DeepPavlov (for chatbots)  
 -AllenNLP (large collections of algorithms/models)  
 
