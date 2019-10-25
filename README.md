@@ -12,16 +12,16 @@ In this mini-tutorial, I'll do some NLP using following Python packages:
 -Flair  
 -Scikit-learn  
 
-(+ Numpy, Pandas and Pyplot)
+(+ Numpy, Pandas and Pyplot as usual)
 
 There are three Notebooks:  
  PART 1 with preprocessing and classical topic classification using TF-IDF scaling  
  PART 2 with simple word and document embeddings and LDA topic modeling  
  PART 3 with state-of-the art contextualized word and document embeddings and classification  
 
-The main emphasis is in Finnish language data, which is not supported only by few libraries and tools. I'll use a toy dataset with 416 wikipedia texts from two broad topics (economy/money and health). This data is included as raw and processed form.
+The main emphasis is in Finnish language data, which is (partly) supported only by few libraries and tools. Here I'll use a toy dataset with 416 Finnish wikipedia texts from two broad topics (economy/money and health/healthcare). This data is included as raw and processed form.
 
-Codes are tested and should work with Python 3.6+ with latest versions of packages (as today). In order to train Flair models, you need PyTorch with relatively good CUDA cabable GPU.
+Codes are tested and should work with Python 3.6+ using latest versions of packages (as of today). In order to train Flair models in PART 3, you need PyTorch with relatively good CUDA cabable GPU.
 
 Some useful links:  
 https://github.com/TurkuNLP/Deep_Learning_in_LangTech_course  
