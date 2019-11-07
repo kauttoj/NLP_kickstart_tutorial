@@ -1,5 +1,5 @@
 # NLP_kickstart_tutorial
-Selected examples of NLP
+Selected examples of Natural Language Processing (NLP).
 
 In this mini-tutorial, I'll do some NLP using following Python packages:
 
